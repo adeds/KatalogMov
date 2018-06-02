@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">MovieCat</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="upcoming">Upcoming</string>
+    <string name="now_playing">Now Playing</string>
+    <string name="search">Search</string>
+    <string name="setting">Setting</string>
+    <string name="movie_catalog">Movie Catalog</string>
+    <string name="noes_droid">noes droid</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="popularity">Popularity</string>
+    <string name="review">Review</string>
+    <string name="untapFav">Tap to Favorite</string>
+    <string name="tapFav">Tap to Unfavorite</string>
+    <string name="tapMsg">Added to Favorite</string>
+    <string name="untapMsg">Remove from Favorite</string>
+    <string name="favorit">Favorite</string>
+</resources>

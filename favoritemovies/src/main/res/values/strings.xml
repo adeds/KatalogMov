@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Favorite Movies</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="popularity">Popularitas</string>
+    <string name="review">Ulasan</string>
+    <string name="judul">judul</string>
+    <string name="date">date</string>
+    <string name="overview">overview</string>
+    <string name="popular">popular</string>
+    <string name="revieu">review</string>
+    <string name="search">Cari</string>
+
+    <string name="untapFav">Sentuh untuk favoritkan</string>
+    <string name="tapFav">Sentuh hilangkan favorit</string>
+    <string name="tapMsg">Ditambahkan ke favorit</string>
+    <string name="untapMsg">Dihilangkan dari favorit</string>
+    <string name="appwidget_text">EXAMPLE</string>
+    <string name="add_widget">Add widget</string>
+    <string name="favorites">Favorites</string>
+
+</resources>

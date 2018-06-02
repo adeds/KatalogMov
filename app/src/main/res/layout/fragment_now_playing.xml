@@ -1,0 +1,23 @@
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.noes.adeyds.subsmovie2.fragment.NowPlaying">
+
+    <!-- TODO: Update blank fragment layout -->
+    <RelativeLayout
+        style="@style/matchParent">
+
+        <ListView
+            style="@style/matchParent"
+            android:id="@+id/lv_np">
+
+        </ListView>
+        <ProgressBar
+            android:id="@+id/progress"
+            style="@style/wrap"
+            android:layout_centerVertical="true"
+            android:layout_centerHorizontal="true"/>
+    </RelativeLayout>
+
+</FrameLayout>
